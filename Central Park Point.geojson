@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Central Park Point",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ -73.965526427940702, 40.78308554928698 ] } }
+]
+}

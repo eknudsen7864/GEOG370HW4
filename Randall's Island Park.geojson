@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Randall's Island Park",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ -73.918265793769251, 40.79463461148206 ] } }
+]
+}
